@@ -1,0 +1,16 @@
+h1{
+    color: rgb(55, 0, 255);
+
+}
+h3{
+    font-size: 30px;
+    text-decoration: underline;
+    text-align: left;
+}
+.list_position{
+    list-style-position: outside;
+    list-style-type: lower-greek;
+}
+.roman{
+    list-style-type: square;
+}

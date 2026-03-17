@@ -1,0 +1,80 @@
+ body {
+            background-color: #F4F6F4; 
+            font-family: 'Montserrat', sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #0D1611;
+        }
+
+        header {
+            text-align: center;
+            padding: 60px 20px;
+            background-color: #0D1611;
+        }
+
+        header h1 {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 60px; 
+            color: #F4F6F4; 
+            margin: 0;
+            letter-spacing: 12px;
+            text-transform: uppercase;
+            font-weight: 300;
+        }
+
+        .menu-header {
+            text-align: center;
+            padding: 50px 20px;
+        }
+
+        .menu-header h2 {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 38px;
+            letter-spacing: 4px;
+            color: #1B2B22;
+            text-transform: uppercase;
+        }
+
+        
+        .table-section {
+            max-width: 900px;
+            margin: 0 auto 60px auto;
+            padding: 0 20px;
+        }
+
+        .category-label {
+            background-color: #1B2B22;
+            color: #F4F6F4;
+            padding: 15px;
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 22px;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            text-align: center;
+        
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: #FFFFFF;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.03);
+        }
+
+        td {
+            padding: 25px 20px;
+            border-bottom: 1px solid #EEE;
+        }
+
+    
+
+        .price {
+            text-align: right;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 400;
+            letter-spacing: 1px;
+            color: #1B2B22;
+            vertical-align: middle;
+            font-size: 16px;
+        }
+ 
